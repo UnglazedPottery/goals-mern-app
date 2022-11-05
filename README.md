@@ -17,3 +17,6 @@ terminal commands used log
 - npm i express-async-handler
 - npm i bcryptjs
 - npm i jsonwebtoken
+- npx create-react-app frontend --template redux
+- cd frontend && npm i react-router-dom
+- npm i react-icons
