@@ -19,4 +19,7 @@ terminal commands used log
 - npm i jsonwebtoken
 - npx create-react-app frontend --template redux
 - cd frontend && npm i react-router-dom
-- npm i react-icons
+- npm i react-icons //still in frontend folder
+- npm i -D concurrently //in root folder, for running multiple scripts like running server and client at the same time
+- npm run dev   //new command made in package.json for running both client and server
+- npm i axios react-toastify  //run this in frontend folder, axios is for fetching data async, toastify is for showing error messages
